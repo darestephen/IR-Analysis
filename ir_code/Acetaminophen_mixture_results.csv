@@ -1,0 +1,2 @@
+Rank,Compound,Combined Similarity (%),IR Score (%),FFT Score (%),Diagnostic Score (%),Nitrile Score (%),Correlation (%),Cosine Similarity (%),Derivative Similarity (%),MSE,RMSE,Spectral Coefficient,Residual Reduction (%),PubChem CID,Molecular Formula,SMILES
+1,Acetaminophen,94.53,91.25,98.53,100.0,0.0,100.0,100.0,100.0,0.0,0.0,1.0,98.59,1983,C8H9NO2,CC(=O)NC1=CC=C(C=C1)O

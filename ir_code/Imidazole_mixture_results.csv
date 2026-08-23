@@ -1,0 +1,2 @@
+Rank,Compound,Combined Similarity (%),IR Score (%),FFT Score (%),Diagnostic Score (%),Nitrile Score (%),Correlation (%),Cosine Similarity (%),Derivative Similarity (%),MSE,RMSE,Spectral Coefficient,Residual Reduction (%),PubChem CID,Molecular Formula,SMILES
+1,Imidazole,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,0.0,0.0,1.0,88.47,795,C3H4N2,C1=CN=CN1

@@ -1,0 +1,3 @@
+Rank,Compound,Combined Similarity (%),IR Score (%),FFT Score (%),Diagnostic Score (%),Nitrile Score (%),Correlation (%),Cosine Similarity (%),Derivative Similarity (%),MSE,RMSE,Spectral Coefficient,Residual Reduction (%),PubChem CID,Molecular Formula,SMILES
+1,Benzoic Acid,92.92,91.25,87.83,100.0,0.0,100.0,100.0,100.0,0.0,0.0,1.0,99.33,243,C7H6O2,C1=CC=C(C=C1)C(=O)O
+2,Ethanoic Acid,42.2,40.73,73.37,27.01,0.0,46.87,56.5,6.99,0.016682167125809843,0.12915946394209696,0.025239492872858104,21.64,176,C2H4O2,CC(=O)O

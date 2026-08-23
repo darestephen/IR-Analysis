@@ -1,0 +1,2 @@
+Rank,Compound,Combined Similarity (%),IR Score (%),FFT Score (%),Diagnostic Score (%),Nitrile Score (%),Correlation (%),Cosine Similarity (%),Derivative Similarity (%),MSE,RMSE,Spectral Coefficient,Residual Reduction (%),PubChem CID,Molecular Formula,SMILES
+1,Acetone,29.73,37.15,35.02,8.77,0.0,43.21,52.2,13.45,0.01544556973283106,0.12428020652071295,0.0034811622945487056,12.88,180,C3H6O,CC(=O)C

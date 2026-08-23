@@ -1,0 +1,3 @@
+Rank,Compound,Similarity (%),Correlation (%),Cosine Similarity (%),MSE,RMSE,Spectral Coefficient,Residual Reduction (%),PubChem CID,PubChem Title,Molecular Formula,SMILES
+1,Acetylsalicylic acid,47.07,27.64,41.99,0.0002832703442535056,0.01683063707212254,0.14425453357129703,13.19,2244,Aspirin,C9H8O4,CC(=O)OC1=CC=CC=C1C(=O)O
+2,Ethylchloride,34.28,15.79,20.76,0.0003868924264884612,0.01966958124842675,0.0996637450736325,3.8,6337,Chloroethane,C2H5Cl,CCCl
