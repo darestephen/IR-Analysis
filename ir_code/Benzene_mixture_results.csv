@@ -1,0 +1,2 @@
+Rank,Compound,Combined Similarity (%),IR Score (%),FFT Score (%),Diagnostic Score (%),Nitrile Score (%),Correlation (%),Cosine Similarity (%),Derivative Similarity (%),MSE,RMSE,Spectral Coefficient,Residual Reduction (%),PubChem CID,Molecular Formula,SMILES
+1,Benzene,96.5,99.26,53.91,99.41,100.0,99.1,99.07,98.53,4.765103976203558e-05,0.0069029732552021075,1.177763538659926,98.52,241,C6H6,C1=CC=CC=C1

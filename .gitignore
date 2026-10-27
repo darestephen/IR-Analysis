@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Databases / local data
+*.db
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Cursor/IDE files
+.vscode/
+*.code-workspace
+
+# Unrelated projects
+ir_code/DaretruckyDriverapp/
+ir_code/chem-genie/
+
+# Browser/archive files
+*.mhtml
